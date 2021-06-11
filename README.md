@@ -37,7 +37,7 @@
 ![](./img/SortByNameFromZToA.png)
 
 ### Сортировка по цене от меньшего к большему
-![](./img/SortByPriceFromLowToHigh.png)
+![](img/SortByPriceFromLowToHigh.png)
 
 ### Сортировка по цене от большего к меньшему
 ![](./img/SortByPriceFromHighToLow.png)
